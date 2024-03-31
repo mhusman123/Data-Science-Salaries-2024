@@ -4,11 +4,9 @@ Introduction: Introduce the project and dataset, outlining the goal of analyzing
 
 Data Analysis: Summarize the main findings from the analysis, such as salary trends based on job titles, experience levels, and company sizes.
 
-Visualization: Highlight key visualizations used to present the data, such as bar plots for salary comparisons and box plots for salary distributions.
+Visualization: Highlight key visualizations used to present the data, such as bar plots for salary comparisons and box plots for salary distributions. Conclude with the insights gained from the analysis, including any recommendations for companies or individuals in the data science field.
 
-Conclusion: Conclude with the insights gained from the analysis, including any recommendations for companies or individuals in the data science field.
-
-Conclusion:
+# Conclusion:
 Salary Analysis by Job Title and Experience Level: Analyze the average salary across different job titles and experience levels to understand salary trends in the data science field.
 
 Salary Disparity Analysis: Identify and visualize any significant salary disparities based on factors such as job title, experience level, or company size. This can help in highlighting areas where there might be inequities.
